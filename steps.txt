@@ -1,0 +1,14 @@
+Install Fly CLI
+curl -L https://fly.io/install.sh | sh
+
+Login to Fly.io
+fly auth login
+
+Init your app
+fly launch
+
+Deploy your app
+fly deploy
+
+
+✅ Done. Your Python backend is now live on a public Fly.io URL.

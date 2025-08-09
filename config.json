@@ -1,0 +1,8 @@
+{
+    "category": "animememes",
+    "max_posts": 10,
+    "timezone": "Asia/Kolkata",
+    "sleep_hours": ["01:00", "09:00"],
+    "upload_interval": [15, 120]
+  }
+  

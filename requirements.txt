@@ -1,0 +1,10 @@
+Flask
+APScheduler
+pytz
+instagrapi
+instaloader
+praw
+pillow
+requests
+python-dotenv
+moviepy
